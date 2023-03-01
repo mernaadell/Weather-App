@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
-    "hbs": "^4.0.6",
+    "hbs": "^4.2.0",
     "init": "^0.1.2",
     "request": "^2.88.0"
   },
